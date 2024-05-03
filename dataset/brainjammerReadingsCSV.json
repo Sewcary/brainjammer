@@ -1,0 +1,23 @@
+{
+	"name": "brainjammerReadingsCSV",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureFileStoragebrainjammerReadingsCSV",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureFileStorageLocation",
+				"fileName": "ALL_SCENARIO_ELECTRODE_FREQUENCY_VALUE.csv",
+				"folderPath": "brainjammer"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
