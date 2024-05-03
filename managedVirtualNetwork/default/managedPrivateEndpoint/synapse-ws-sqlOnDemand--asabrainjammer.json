@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--asabrainjammer",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/4b2cc0ce-10e8-48af-aac3-44a69e80fa45/resourceGroups/brainjammer/providers/Microsoft.Synapse/workspaces/asabrainjammer",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"asabrainjammer-ondemand.7add00b9-7f6c-4c2a-ad16-e3f15903624d.sql.azuresynapse.net"
+		]
+	}
+}

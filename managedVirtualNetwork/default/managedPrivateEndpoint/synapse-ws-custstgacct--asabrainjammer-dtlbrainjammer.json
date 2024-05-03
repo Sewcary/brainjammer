@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-custstgacct--asabrainjammer-dtlbrainjammer",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/4b2cc0ce-10e8-48af-aac3-44a69e80fa45/resourceGroups/brainjammer/providers/Microsoft.Storage/storageAccounts/dtlbrainjammer",
+		"groupId": "dfs",
+		"fqdns": [
+			"dtlbrainjammer.dfs.core.windows.net"
+		]
+	}
+}
